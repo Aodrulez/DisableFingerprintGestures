@@ -1,0 +1,6 @@
+id=DisableFingerprintGestures
+name=DisableFingerprintGestures
+version=v1.0
+versionCode=1
+author=Aodrulez
+description=Disables fingerprint gestures on Huawei devices. Might work for others too, worth a try.
