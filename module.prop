@@ -3,4 +3,4 @@ name=DisableFingerprintGestures
 version=v1.0
 versionCode=1
 author=Aodrulez
-description=Disables fingerprint gestures on Huawei devices. Might work for others too, worth a try.
+description=module that disables fingerprint gestures on Huawei Android phones. Changes made by this module are generic & hence should work for all android devices with Fingerprint scanner.
